@@ -1,0 +1,6 @@
+Everything is an object.
+Commonly used interpretively (which means it's used in a command prompt instead of an ide?).
+The syntax is very fluent, and there are multiple ways to word logic (multiple ways to write if statements, while loops, etc).
+Strong typed, meaning you'll get an error when types collid, but it is dynamic typing. Errors are caught at runtime.
+Classes don't have to inherit from the same parent to be used in the same way. (list can contain integers and strings).
+Why does duck typing allow ruby to adhere to coding to interfaces rather than implementations? pg 18.
